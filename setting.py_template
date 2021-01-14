@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+# --coding:utf-8--
+
+#вставьте свои данные и переименуйте файл в setting.py
+
+mytokin = ''
+tokinOWM = ''
+channel_login = ["@you_name"]
+sleep_bot = "3"
